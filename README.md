@@ -1,4 +1,4 @@
-## Hi there, I'm Aji👋
+## Hi there 👋
 
 I'm Ajimas Galung Candra, an aspiring data analyst and data scientist. I'm fresh graduate from mechanical engineer Institut Teknologi Bandung which has interest to work with number and so much into machine learning. I'm fast learner and have an eagerness to learn more to hone my skills as a data analyst and data scientist. 
 
@@ -12,7 +12,7 @@ I'm Ajimas Galung Candra, an aspiring data analyst and data scientist. I'm fresh
   - Logical Thinking Skill
   - Communication Skil
  
- ### :long_drum: Tools
+ ### :long_drum: Tools Proficient
   - Spreadsheet : Excel and Google Sheets
   - Python (Library: Pandas, Numpy, Matplotlib, Seaborn, Sklearn)
   - SQL (MySQL, BigQuery)
